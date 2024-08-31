@@ -1,31 +1,31 @@
-1 === '1' // 
+1 === '1' // фолз
 
-'1' == 1 //
+'1' == 1 // тру
 
-undefined == undefined //
+undefined == undefined // тру
 
-undefined == 'undefined' //
+undefined == 'undefined' // офлз
 
-undefined === undefined //
+undefined === undefined // тру
  
-null == null //
+null == null // тру
 
-null === undefined //
+null === undefined // фолз 
 
-false == undefined //
+false == undefined // фолз
 
-false === undefined //
+false === undefined // фолз
 
-false == null //
+false == null // фолз
 
-false === null //
+false === null // фолз
 
-true == '' //
+true == '' // фолз
 
-true === '' //
+true === '' // фолз
 
-false == 0 //
+false == 0 // тру
 
-true == 1 //
+true == 1 // тру
 
 '1' && 1 //
